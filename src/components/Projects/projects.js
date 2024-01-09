@@ -28,7 +28,7 @@ export const Projects = () => {
           <div className='projectsImgContainer'>
             <img src={portfolio} alt="projects3" className='projectsImg'/>
             <span className='imgText'>
-              <h4>My projects</h4>
+              <h4>My Portfolio</h4>
               <a href='https://github.com/bytanng/fypwebapp' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn'>Github</button></a>
             </span>
           </div>
