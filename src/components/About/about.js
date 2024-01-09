@@ -19,7 +19,7 @@ export const About = () => {
                 <img src={ntu} alt="UIDesign" className='aboutBarImg1'/>
                 <div className='aboutBarText'>
                     <h4>Nanyang Technological University</h4>
-                    <h4>School of Electrical and Electronic Engineering</h4>
+                    <p><strong>School of Electrical and Electronic Engineering</strong></p>
                     <p>• Bachelor of Engineering in Information Engineering and Media (Honours)</p>
                     <p>Aug 2020 - Jun 2024</p>
                 </div>
