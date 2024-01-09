@@ -29,7 +29,7 @@ export const Projects = () => {
             <img src={portfolio} alt="projects3" className='projectsImg'/>
             <span className='imgText'>
               <h4>My Portfolio</h4>
-              <a href='https://github.com/bytanng/fypwebapp' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn'>Github</button></a>
+              <a href='https://github.com/bytanng/myportfolio' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn'>Github</button></a>
             </span>
           </div>
         </div>
