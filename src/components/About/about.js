@@ -19,8 +19,8 @@ export const About = () => {
                 <img src={ntu} alt="UIDesign" className='aboutBarImg1'/>
                 <div className='aboutBarText'>
                     <h4>Nanyang Technological University</h4>
-                    <p>School of Electrical and Electronic Engineering</p>
-                    <p>Bachelor of Engineering in Information Engineering and Media (Honours)</p>
+                    <p><strong>School of Electrical and Electronic Engineering</strong></p>
+                    <p>• Bachelor of Engineering in Information Engineering and Media (Honours)</p>
                     <p>Aug 2020 - Jun 2024</p>
                 </div>
             </div>
@@ -28,8 +28,8 @@ export const About = () => {
                 <img src={nyp} alt="WebDesign" className='aboutBarImg1'/>
                 <div className='aboutBarText'>
                     <h4>Nanyang Polytechnic</h4>
-                    <p>School of Information Technology</p>
-                    <p>Diploma in Engineering Informatics</p>
+                    <h5>School of Information Technology</h5>
+                    <p>• Diploma in Engineering Informatics</p>
                     <p>Apr 2015 - May 2018</p>
                 </div>
             </div>
@@ -40,7 +40,7 @@ export const About = () => {
                 <img src={gf} alt="UIDesign" className='aboutBarImg2'/>
                 <div className='aboutBarText'>
                     <h4>GlobalFoundries Singapore</h4>
-                    <p>Software Tester, Intern</p>
+                    <p>• Software Tester, Intern</p>
                     <p>May 2022 - Jan 2023</p>
                 </div>
             </div>
@@ -48,7 +48,7 @@ export const About = () => {
                 <img src={ibm} alt="WebDesign" className='aboutBarImg2'/>
                 <div className='aboutBarText'>
                     <h4>International Business Machines Corp (IBM)</h4>
-                    <p>Deskside Engineer</p>
+                    <p>• Deskside Engineer</p>
                     <p>Jun 2021 - Jul 2021</p>
                 </div>
             </div>
@@ -56,7 +56,7 @@ export const About = () => {
                 <img src={bcg} alt="AppDesign" className='aboutBarImg2'/>
                 <div className='aboutBarText'>
                     <h4>The Boston Consulting Group</h4>
-                    <p>Case Team Assistant</p>
+                    <p>• Case Team Assistant</p>
                     <p>May 2018 - Jun 2018</p>
                 </div>
             </div>
