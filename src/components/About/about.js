@@ -19,7 +19,7 @@ export const About = () => {
                 <img src={ntu} alt="UIDesign" className='aboutBarImg1'/>
                 <div className='aboutBarText'>
                     <h4>Nanyang Technological University</h4>
-                    <p><strong>School of Electrical and Electronic Engineering</strong></p>
+                    <h4>School of Electrical and Electronic Engineering</h4>
                     <p>• Bachelor of Engineering in Information Engineering and Media (Honours)</p>
                     <p>Aug 2020 - Jun 2024</p>
                 </div>
@@ -28,7 +28,7 @@ export const About = () => {
                 <img src={nyp} alt="WebDesign" className='aboutBarImg1'/>
                 <div className='aboutBarText'>
                     <h4>Nanyang Polytechnic</h4>
-                    <h5>School of Information Technology</h5>
+                    <p><strong>School of Information Technology</strong></p>
                     <p>• Diploma in Engineering Informatics</p>
                     <p>Apr 2015 - May 2018</p>
                 </div>
