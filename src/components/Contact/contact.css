@@ -137,6 +137,7 @@
     width: 1.5rem;
 }
 
-.contactBtn:hover, .contactBtn2:hover{
+.submitBtn:hover,.contactBtn:hover, .contactBtn2:hover{
     background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
+    cursor: pointer;
   }
