@@ -22,7 +22,8 @@ export const Projects = () => {
             <img src={hive} alt="projects2" className='projectsImg'/>
             <span className='imgText'>
               <h4>FYP - Web Application for student related activities</h4>
-              <a href='https://github.com/bytanng/fypwebapp' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn'>Github</button></a>
+              <a href='https://bytanng-fyp.netlify.app/' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn' style={{backgroundColor:'#15f593'}}>Live Site</button></a>
+              <a href='https://github.com/bytanng/fypfrontend' target='_blank' rel='noopener noreferrer'><button type="button" className='projectsBtn'>Github</button></a>
             </span>
           </div>
           <div className='projectsImgContainer'>
