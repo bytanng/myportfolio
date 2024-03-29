@@ -11,7 +11,7 @@ export const About = () => {
   return (
     <section id="about">
         <span className='aboutTitle'>About Me</span>
-        <span className='aboutDescription'><p>I am a final-year student at the Nanyang Technological University, majoring in Information Engineering and Media, where art meets technology. Currently based in the vibrant city of Singapore, I’m driven by a deep passion for coding and a strong desire to become proficient software engineer. My journey began with curiosity, and it’s been an exhilarating ride ever since I’ve delved into the world of programming. I’m constantly seeking opportunities to sharp my abouts and my goal is to harness the power of technology to create innovative solutions that make a positive impact.</p>
+        <span className='aboutDescription'><p>I am a final-year student at the Nanyang Technological University, majoring in Information Engineering and Media, where art meets technology. Currently based in the vibrant city of Singapore, I’m driven by a deep passion for coding and a strong desire to become proficient software engineer. My journey began with curiosity, and it’s been an exhilarating ride ever since I’ve delved into the world of programming. I’m constantly seeking opportunities to sharpen my skills, and my goal is to harness the power of technology to create innovative solutions that make a positive impact.</p>
         </span>
         <span className='aboutTitle2'>Education</span>
         <div className='aboutBars'>
