@@ -8,8 +8,8 @@ const Intro = () => {
     <section id="intro">
       <div className="introContent">
         <span className='hello'>Hi there,</span>
-        <span className='introText'>I'm <span className='introName'>Yang</span>,<br />an Aspiring Software Engineer</span>
-        <p className='introPara'><br/>I am passionate about designing and developing user-centric <br />and scalable web applications.</p>
+        <span className='introText'>I'm <span className='introName'>Yang</span>,<br />a Software Engineer</span>
+        <p className='introPara'><br/>I am deeply passionate about designing and developing robust, scalable, <br/>and user-centric web applications.</p>
         <div id="introBtns">
           <button className='introBtn'><a href={CV} download style={{color: 'black'}}>CV</a></button>
           <button className='introBtn' style={{ backgroundColor: '#0077B5'}}><a href="https://www.linkedin.com/in/bytang/" style={{color:'white'}} target='_blank' rel="noopener noreferrer" download>in</a></button>

@@ -120,6 +120,19 @@
     color: white;
 }
 
+.contactBtn3{
+    background: white;
+    margin: 1rem 0.5rem 1rem 0rem;
+    padding: 0.75rem 0.5rem;
+    border: none;
+    border-radius: 1rem;
+    font-weight: 600;
+    font-size: 0.75rem;
+    width: 10rem;
+    height: 2.5rem;
+    color: black;
+}
+
 .contactBtn2{
     background: white;
     margin: 1.9rem 0.6rem 1rem rem;
@@ -138,7 +151,7 @@
     width: 1.5rem;
 }
 
-.submitBtn:hover,.contactBtn:hover, .contactBtn2:hover{
+.submitBtn:hover,.contactBtn:hover, .contactBtn2:hover, .contactBtn3:hover{
     background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
     cursor: pointer;
   }
